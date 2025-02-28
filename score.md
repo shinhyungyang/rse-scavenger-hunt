@@ -1,6 +1,6 @@
 # :tada: Collected Tokens :sparkles:
 
-### setup: 
+### setup: :star2: 
 
 ### git: 
 
